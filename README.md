@@ -17,14 +17,11 @@ A minimal, privacy-friendly timer app designed for one-handed use.
 
 ## Screenshots
 
-### Main Screen
-![Main Screen](screenshots/main.png)
-
-### Custom Timer
-![Custom Timer](screenshots/custom_timer.png)
-
-### Notification Controls
-![Notification](screenshots/notification.png)
+<p align="center">
+  <img src="screenshots/main.png" width="30%" />
+  <img src="screenshots/custom_timer.png" width="30%" />
+  <img src="screenshots/notification.png" width="30%" />
+</p>
 
 ## Privacy
 
